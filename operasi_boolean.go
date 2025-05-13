@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main12 () {
 	var nilaiAkhir = 80
 	var absen = 80
 
