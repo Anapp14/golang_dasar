@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main9 () {
+func main() {
 	type NoKTP string
 
 	var ktpAnap NoKTP = "1111111"
